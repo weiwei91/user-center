@@ -64,11 +64,11 @@
         </dependency>
 
         <!--引入队列-->
-        <dependency>
+        <!--<dependency>
             <groupId>org.apache.rocketmq</groupId>
             <artifactId>rocketmq-spring-boot-starter</artifactId>
             <version>2.1.0</version>
-        </dependency>
+        </dependency>-->
     </dependencies>
 
     <dependencyManagement>
